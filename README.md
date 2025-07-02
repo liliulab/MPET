@@ -1,4 +1,4 @@
-# MPET: Multi-level Protein Expression Trajectory Analysis
+# MPET: Modeling Protein Expression and Transport
 
 MPET is an R package for modeling regulatory mechanisms of surface protein expression using multimodal single-cell datasets. It provides tools to identify condition-specific pathways linking mRNA, intermediate regulators (ICTs), and disease conditions across multiple modules.
 
