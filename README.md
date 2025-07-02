@@ -1,6 +1,7 @@
 # MPET: Modeling Protein Expression and Transport
 
-MPET is an R package for modeling regulatory mechanisms of surface protein expression using multimodal single-cell datasets. It provides tools to identify condition-specific pathways linking mRNA, intermediate regulators (ICTs), and disease conditions across multiple modules.
+MPET is an R package that implements a computational framework for analyzing CITE-seq data to uncover how intracellular transport (ICT) genes regulate surface protein expression and influence disease phenotypes. It identifies regulatory trios—comprising a surface protein, its coding gene, and an ICT gene—using mixed-effects regression and mediation models to reveal transport-driven phenotypic circuits.
+
 
 ---
 
@@ -82,7 +83,7 @@ MPET/
 
 ## 👤 Authors
 
-- **Li Liu** (ASU) – Maintainer | [liliu@asu.edu](mailto:liliu@asu.edu)
+- **Li Liu**  – Maintainer | [liliu@asu.edu](mailto:liliu@asu.edu)
 - **Rekha Mudappathi** – Contributor
 
 ---
