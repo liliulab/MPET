@@ -1,0 +1,12 @@
+Package: MPET
+Title: Modeling Protein Expression and Transport
+Version: 1.0.0
+Authors@R: 
+    person("Rekha", "Mudappathi", email = "rmudappa@asu.edu", role = c("aut"))
+    person("Li", "Liu", email = "liliu@asu.edu", role = c("aut","cre"))
+Description: Tools for integrated surface protein regulatory analysis from CITE-seq data, including MPET Modules 1, 2, 3, and preprocessing utilities.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports: dplyr, tidyr, stringr, foreach, lmerTest, lavaan, igraph, ggplot2
+LazyData: true
+RoxygenNote: 7.2.3
