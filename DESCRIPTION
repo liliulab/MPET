@@ -7,6 +7,6 @@ Authors@R:
 Description: Tools for integrated surface protein regulatory analysis from CITE-seq data, including MPET Modules 1, 2, 3, and preprocessing utilities.
 License: MIT + file LICENSE
 Encoding: UTF-8
-Imports: dplyr, tidyr, stringr, foreach, lmerTest, lavaan, igraph, ggplot2, Seurat
+Imports: dplyr, tidyr, stringr, foreach, lmerTest, lavaan, igraph, ggplot2, Seurat, SeuratObject
 LazyData: true
 RoxygenNote: 7.2.3
